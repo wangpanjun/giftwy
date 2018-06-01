@@ -8,7 +8,7 @@ giftwy
      :alt: Built with Cookiecutter Django
 
 
-:License: BSD
+:License: Apache
 
 
 Settings
